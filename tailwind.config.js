@@ -12,6 +12,8 @@ export default {
         headerImage: 'url("/src/assets/header.jpg")',
         storeImage: 'url("/src/assets/store2.jpg")',
         storeImage2: 'url("/src/assets/store3.png")',
+        maleBatik: 'url("/src/assets/maleBatik.jpg")',
+        femaleBatik: 'url("/src/assets/femaleBatik.jpg")',
       },
     },
   },
