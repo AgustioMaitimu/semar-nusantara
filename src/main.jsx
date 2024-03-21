@@ -16,7 +16,7 @@ const router = createBrowserRouter([
     element: <Collections />,
   },
   {
-    path: '/semar-nusantara/appointment',
+    path: '/semar-nusantara/appointment/',
     element: <Appointment />,
   },
 ]);

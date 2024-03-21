@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://agustiomaitimu.github.io/semar-nusantara",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
